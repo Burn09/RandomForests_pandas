@@ -1,2 +1,4 @@
 # RandomForests_pandas
-Comparing a SIngle Decision Tree model with a Random Forests 
+Comparing the effectiveness of a Single Decision Tree model with a Random Forest using a real-world loan data from LendingClub.com. 
+
+https://www.lendingclub.com/info/download-data.action
